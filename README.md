@@ -2,6 +2,14 @@
 
 ## I'm beginner Software Engeneer
 
-Tools
+### Tools
+![Mysql](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql) 
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman) 
+![JIRA](https://img.shields.io/badge/JIRA-000000?style=for-the-badge&logo=Jira) 
+![Swagger](https://img.shields.io/badge/swagger-000000?style=for-the-badge&logo=swagger) 
+![Devtools](https://img.shields.io/badge/devtools-000000?style=for-the-badge&logo=Devtools) 
+![AndroidStudio](https://img.shields.io/badge/AndroidStudio-000000?style=for-the-badge&logo=AndroidStudio) 
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub) 
+![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma) 
 
 Follow me
