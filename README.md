@@ -12,4 +12,5 @@
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub) 
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma) 
 
-Follow me
+### Follow me
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram)](https://www.t.me/CocoJambo09) 
